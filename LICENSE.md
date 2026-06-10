@@ -1,4 +1,4 @@
-# 
+# مفتوح المصدر arbitrage trading bot إعدادات مسبقة لـ Mac OS | توربو arbitrage trading bot إعدادات مسبقة لـ PC Windows. مع تنفيذ أوامر محدودة و تجميع متعدد DEX — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
